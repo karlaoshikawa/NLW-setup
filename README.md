@@ -9,6 +9,7 @@
   * Javascript
   * Typescript
   * React
+  * React Native
   * Vite
   * Prisma
   * Tailwind
